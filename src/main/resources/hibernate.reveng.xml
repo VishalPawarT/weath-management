@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="wealth_management" match-name="client_information"/>
+  <table-filter match-catalog="wealth_management" match-name="credit_details"/>
+  <table-filter match-catalog="wealth_management" match-name="debit_details"/>
+  <table-filter match-catalog="wealth_management" match-name="user_defined_sources"/>
+  <table-filter match-catalog="wealth_management" match-name="user_defined_clients"/>
+</hibernate-reverse-engineering>
